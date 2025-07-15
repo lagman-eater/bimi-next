@@ -1,0 +1,47 @@
+[
+  {
+    "id": "nooruz-eng",
+    "title": {
+      "en": "Nooruz Holiday",
+      "ru": "Праздник Нооруз",
+      "kg": "Нооруз майрамы"
+    },
+    "description": {
+      "en": "BIMI students greeted the spring holiday of Nooruz",
+      "ru": "Студенты BIMI поздравили с праздником весны Нооруз",
+      "kg": "БМИИнин студенттери жаз майрамы Нооруз менен куттукташты"
+    },
+    "date": "2025-03-21",
+    "imgSrc": "/images/newsPage1-1.png"
+  },
+  {
+    "id": "sessia-eng",
+    "title": {
+      "en": "Spring Session",
+      "ru": "Весенняя сессия",
+      "kg": "Жазгы сессия"
+    },
+    "description": {
+      "en": "BMMI Students Successfully Pass First Semester Exams",
+      "ru": "Студенты успешно сдали экзамены за первый семестр",
+      "kg": "БМИИнин студенттери биринчи семестрдин экзамендерин ийгиликтүү тапшырышты"
+    },
+    "date": "2025-04-02",
+    "imgSrc": "/images/sixth-slider-postEng2.png"
+  },
+  {
+    "id": "knowledge-day",
+    "title": {
+      "en": "Knowledge Day",
+      "ru": "День знаний",
+      "kg": "Билим күнү"
+    },
+    "description": {
+      "en": "Administrative Institute and teaching staff congratulate on the beginning of the academic year",
+      "ru": "Администрация института и преподаватели поздравляют с началом учебного года",
+      "kg": "Институттун администрациясы жана окутуучулар жаңы окуу жылынын башталышы менен куттукташат"
+    },
+    "date": "2025-09-01",
+    "imgSrc": "/images/car4.png"
+  }
+]

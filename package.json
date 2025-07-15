@@ -1,0 +1,39 @@
+{
+  "name": "medical-institute",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev", 
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "aos": "^2.3.4",
+    "autoprefixer": "^10.4.21",
+    "next": "14.2.15", 
+    "next-i18next": "^15.4.2",
+    "next-intl": "^4.1.0",
+    "postcss": "^8.5.3",
+    "react": "^18.2.0", 
+    "react-dom": "^18.2.0",
+    "react-icons": "^5.5.0",
+    "react-player": "^2.16.0",
+    "react-slick": "^0.30.3",
+    "sharp": "^0.34.1",
+    "slick-carousel": "^1.8.1",
+    "swiper": "^11.2.7",
+    "tailwindcss": "^3.4.1"
+  },
+  "devDependencies": {
+    "@eslint/eslintrc": "^3",
+    "@types/aos": "^3.0.7",
+    "@types/node": "^20",
+    "@types/react": "^18.2.0", 
+    "@types/react-dom": "^18.2.0", 
+    "@types/react-slick": "^0.23.13",
+    "eslint": "^9",
+    "eslint-config-next": "14.2.15",
+    "typescript": "^5.8.3"
+  }
+}

@@ -1,0 +1,83 @@
+.card {
+  background: white;
+  border-radius: 8px;
+  box-shadow: 0 2px 8px rgb(0 0 0 / 0.1);
+  display: flex;
+  flex-direction: column;
+  overflow: hidden;
+}
+
+.imageWrapper {
+  overflow: hidden;
+  position: relative;
+}
+
+.image {
+  width: 100%;
+  height: 12rem;
+  object-fit: cover;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}
+
+.imageWrapper:hover .image {
+  transform: scale(1.05);
+  opacity: 0.8;
+}
+
+.bimiSeparator {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding: 0.75rem 0;
+  background: white;
+  gap: 0.5rem;
+  color: #777;
+  font-weight: 600;
+}
+
+.line {
+  flex-grow: 1;
+  border-top: 1px solid #ccc;
+}
+
+.title {
+  background-color: #1c41b0;
+  color: white;
+  font-size: 18px;
+  font-weight: 600;
+  padding: 0.5rem 1rem;
+}
+
+.description {
+  color: #666666;
+  font-size: 15px;
+  padding: 0.5rem 1rem;
+  flex-grow: 1;
+}
+
+.footer {
+  border-top: 1px solid #eee;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0.5rem 1rem;
+}
+
+.date {
+  display: flex;
+  align-items: center;
+  gap: 0.5rem;
+  color: #b00000;
+  font-size: 14px;
+}
+
+.moreLink {
+  color: #1c41b0;
+  font-weight: 600;
+  font-size: 14px;
+  text-decoration: none;
+}
+
+.moreLink:hover {
+  text-decoration: underline;
+}
