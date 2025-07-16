@@ -11,7 +11,7 @@ export default function HeadOfDepartment({
     {
       name: messages.Institute.Org.Head.List.Item1.Name,
       title: messages.Institute.Org.Head.List.Item1.Text,
-      img: "/images/photo_rukov.png",
+      img: "/images/orgHead4.png",
       email: "fundamental.disciplines@bimi.edu.kg"
     }
   ];

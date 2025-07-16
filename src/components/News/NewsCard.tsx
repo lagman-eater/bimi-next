@@ -58,7 +58,7 @@ export default function NewsCard({
           <CalendarIcon />
           <time dateTime={date}>{formattedDate || ""}</time>
         </div>
-        <Link href={`/${lang}/news/${id}`}>
+        <Link href={`/${lang}/institute/news/${id}`}>
           <div className={styles.moreLink}>{more}</div>
         </Link>
       </div>

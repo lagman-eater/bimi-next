@@ -37,31 +37,31 @@ export default function Footer({ messages }: { messages: any }) {
           {/* Navigation Links */}
           <div className="flex flex-col gap-1 font-ubuntu text-sm">
             <a
-              href="/en/main-english.html"
+              href="/en"
               className="hover:text-[#3f63d1] transition"
             >
               {messages.Students.Bread.TitleMain}
             </a>
             <a
-              href="/en/institute/bimi"
+              href="/en/institute/institute/normative-documents"
               className="hover:text-[#3f63d1] transition"
             >
-              {messages.Header.HeaderList.List1.Item4}
+              {messages.Header.HeaderList.ListTitle1}
             </a>
             <a
-              href="/en/students/schedule"
+              href="/en/students/point-rating"
               className="hover:text-[#3f63d1] transition"
             >
               {messages.Header.HeaderList.ListTitle2}
             </a>
             <a
-              href="/en/abiturients/Rules-for-accepcing"
+              href="/en/abiturients/rules-for-docs"
               className="hover:text-[#3f63d1] transition"
             >
               {messages.Header.HeaderList.ListTitle3}
             </a>
             <a
-              href="/en/abiturients/Documents-for-applying"
+              href="/en/abiturients/documents-for-applying"
               className="hover:text-[#3f63d1] transition"
             >
               {messages.HomePageMain.Enrollment.Title1}

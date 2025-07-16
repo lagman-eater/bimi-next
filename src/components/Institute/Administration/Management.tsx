@@ -30,7 +30,7 @@ export default function Management({ messages, lang }: ManagementProps) {
     {
       name: messages.Institute.Org.Man.List.Item4.Name,
       title: messages.Institute.Org.Man.List.Item4.Text,
-      img: "/images/photo_rukov.png",
+      img: "/images/orgMan4.png",
     },
   ];
   return (
@@ -44,11 +44,13 @@ export default function Management({ messages, lang }: ManagementProps) {
             data-aos-duration="500"
             data-aos-delay={200 + index * 100}
           >
-            <div className="w-[275px] h-[295px] overflow-hidden rounded-lg shadow">
-              <img
+            <div className="relative w-[275px] h-[295px] overflow-hidden rounded-lg shadow">
+              <Image
                 src={member.img}
                 alt={member.name}
-                className="w-full h-full object-cover object-center"
+                fill
+                sizes="(max-width: 768px) 100vw, 275px"
+                className="object-cover object-center rounded-lg shadow"
               />
             </div>
 

@@ -28,7 +28,11 @@
         "Item4": "Application for admission"
       },
       "ListTitle4": "Scientific activity",
-      "ListTitle5": "Contacts"
+      "ListTitle5": "Contacts",
+      "ListTitle6": {
+        "Title": "Harm reduction concept",
+        "Short Title": "HRC"
+      }
     }
   },
   "HomePageMain": {
@@ -3801,6 +3805,21 @@
       "Title2": "Dr. Polla Vishnu Vardhan Rao",
       "Text1": "I’m Dr. Polla Vishnu Vardhan Rao, a medical professional from Telangana, India. I earned my MBBS degree from Kyrgyzstan, where I developed a strong clinical foundation and a deep sense of purpose in healthcare. Currently, I’m practicing in India, continuing to enhance my medical skills and serve patients with commitment and care.",
       "Text2": "Outside of my medical career, I’m an avid reader with a passion for acquiring knowledge across diverse subjects. I have a strong interest in innovation and entrepreneurship, and I actively explore business opportunities in various fields. My long-term vision is to build a state-of-the-art, multi-specialty hospital that delivers accessible, high-quality healthcare while also expanding outreach to underserved communities. I’m driven by a desire to make a meaningful impact—both as a doctor and a changemaker."
+    }
+  },
+  "HRC": {
+    "Main": {
+      "Title": "Harm Reduction Concept",
+      "Text1": "The Harm Reduction Concept (HRC) is a growing approach in developed countries to combat non-communicable diseases caused by harmful habits. HRC takes into account the dependence of individuals on smoking, alcohol, salt, sugar, and high-calorie foods. The concept proposes the use of 'soft power', where instead of prohibiting harmful products, the right to choose is offered by replacing the harmful product with a scientifically backed, less harmful alternative. In this way, HRC effectively complements traditional measures to combat non-communicable diseases (NCDs) and achieves the overall goals of public health.",
+      "Text2": "'Harm reduction' (Eng. harm reduction) is an approach aimed at preserving the health of each member of human society, focused not on banning harmful health behaviors, but on reducing harmful consequences and changing behavior towards safer practices. The term 'harm reduction' emerged about 25 years ago to describe strategies and programs aimed at reducing the 'negative medical, social, and economic consequences of substance use for drug users, their families, and society as a whole'. According to public health experts, the priority of the harm reduction strategy is 'preventing HIV and other infections transmitted through injectable drug use, as well as overdoses, involvement in criminal activities, the breakdown of family and social ties, and other medical and social consequences. Based on this, harm reduction implies a set of medical and preventive measures that 'aim to prevent the transmission of HIV and other infections through the sharing of non-sterile injection equipment and drug solutions.' There are different definitions of 'harm reduction' that encompass different aspects of theory and practice, accepted by various experts and activists. However, the basic principles of this strategy are not in doubt among harm reduction supporters. WHO research has shown that human health depends on the healthcare system only by 8-10%. The determining factors are entirely different. Specifically, 20% of our health and physical condition is determined by the environment, another 20% by genetic factors, and 50-52% by lifestyle. The numbers speak for themselves. It might seem simple: change your lifestyle, eat properly, quit harmful habits, move more, and enjoy good health! However, in practice, it's not so simple. The problem is that behind harmful habits, which a person cannot abandon, lies dependence. And it doesn't necessarily have to be drug dependence, like nicotine addiction. It could be, for instance, a psychological dependence on fatty food. Or a habit of consuming large amounts of sugar daily because we believe it boosts our mood. Often, we are unable to overcome this dependence. And often – we simply don't want to, downplaying the significance of the problem or not even realizing why we need this.' – Alfiya Samigullina"
+    },
+    "Presentations": {
+      "Title": "HRC Presentations",
+      "Text": "Under development"
+    },
+    "Tabs": {
+      "Main": "Main Page",
+      "Presentations": "Presentations"
     }
   }
 }

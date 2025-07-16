@@ -12,12 +12,12 @@ export default function Staff({ messages, lang }: StaffProps) {
     {
       name: messages.Institute.Org.Adm.List.Item1.Name,
       post: messages.Institute.Org.Adm.List.Item1.Text,
-      img: "/images/photo_rukov.png",
+      img: "/images/orgAdm1.png",
     },
     {
       name: messages.Institute.Org.Adm.List.Item2.Name,
       post: messages.Institute.Org.Adm.List.Item2.Text,
-      img: "/images/photo_rukov.png",
+      img: "/images/orgAdmZh.png",
     },
     {
       name: messages.Institute.Org.Adm.List.Item6.Name,

@@ -79,15 +79,15 @@ export default function HomePageMain({
   const buttonItems = [
     {
       label: dict.Upper.List.Item1,
-      href: "/en/institute/bimi-eng",
+      href: "/en/institute/institute/normative-documents",
     },
     {
       label: dict.Upper.List.Item2,
-      href: "/en/abiturients/Rules-for-accepcing.html",
+      href: "/en/abiturients/rules-for-docs",
     },
     {
       label: dict.Upper.List.Item3,
-      href: "/КСВ/KSV.html",
+      href: "/en/hrc/main",
     },
     {
       label: dict.Upper.List.Item4,
@@ -352,7 +352,7 @@ export default function HomePageMain({
             </p>
             <div>
               <a
-                href={`/${lang}/abiturients/Rules-for-accepcing`}
+                href={`/${lang}/abiturients/rules-for-docs`}
                 className="inline-flex justify-center items-center w-[220px] h-[50px] sm:h-[55px] text-[16px] font-pt-sans font-semibold text-[#1C41B0] bg-white rounded-[15px] shadow-[0_4px_20px_rgba(107,139,175,0.25)] hover:bg-[#1C41B0] hover:text-white transition-all duration-300"
               >
                 {dict.Enrollment.More}
